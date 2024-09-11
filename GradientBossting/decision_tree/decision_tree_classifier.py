@@ -29,7 +29,6 @@ class Module:
         pass
 
     def predict(self):
-        super().__call__()
         pass
 
 class DecisionTreeClassifier(Module):
