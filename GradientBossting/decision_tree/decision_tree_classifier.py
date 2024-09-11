@@ -1,5 +1,5 @@
 from decision_tree.criterions import gini, entropy
-from decision_tree.impurity import impurity
+from decision_tree.gain import gain
 import numpy as np
 
 
