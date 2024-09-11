@@ -1,2 +1,2 @@
 from decision_tree import *
-from gradint_boosting import *
+from gradient_boosting import *
